@@ -54,7 +54,7 @@ export default function RootLayout({
                 <h3 className="text-lg font-semibold mb-4">Connect</h3>
                 <div className="space-y-2">
                   <a
-                    href="https://youtube.com/@brettkoenig"
+                    href="https://youtube.com/@daily-dot-ai"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block text-gray-400 hover:text-white transition"
@@ -62,7 +62,7 @@ export default function RootLayout({
                     YouTube Channel
                   </a>
                   <a
-                    href="https://open.spotify.com/show/your-podcast-id"
+                    href="https://open.spotify.com/show/4ohzJZdYU19g7S9IIiQyZn?si=v1oJBr4jRviQxmdd_XwB_w"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block text-gray-400 hover:text-white transition"

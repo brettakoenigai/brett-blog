@@ -24,7 +24,7 @@ export default function Home() {
               Read the Blog
             </Link>
             <a
-              href="https://youtube.com/@brettkoenig"
+              href="https://youtube.com/@daily-dot-ai"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-red-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-red-700 transition"
@@ -87,7 +87,7 @@ export default function Home() {
           <h2 className="text-3xl font-bold mb-8 text-center">More From Me</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <a
-              href="https://youtube.com/@brettkoenig"
+              href="https://youtube.com/@daily-dot-ai"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white p-8 rounded-lg shadow-md hover:shadow-lg transition"
@@ -103,7 +103,7 @@ export default function Home() {
               </p>
             </a>
             <a
-              href="https://open.spotify.com/show/your-podcast-id"
+              href="https://open.spotify.com/show/4ohzJZdYU19g7S9IIiQyZn?si=v1oJBr4jRviQxmdd_XwB_w"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white p-8 rounded-lg shadow-md hover:shadow-lg transition"

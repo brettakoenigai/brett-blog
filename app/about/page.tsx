@@ -17,7 +17,7 @@ export default function AboutPage() {
         <ul className="space-y-2">
           <li>
             <a
-              href="https://youtube.com/@brettkoenig"
+              href="https://youtube.com/@daily-dot-ai"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:text-blue-800"
@@ -28,7 +28,7 @@ export default function AboutPage() {
           </li>
           <li>
             <a
-              href="https://open.spotify.com/show/your-podcast-id"
+              href="https://open.spotify.com/show/4ohzJZdYU19g7S9IIiQyZn?si=v1oJBr4jRviQxmdd_XwB_w"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:text-blue-800"
