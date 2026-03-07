@@ -2,10 +2,5 @@
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
   "installCommand": "npm install",
-  "framework": "nextjs",
-  "env": {
-    "SENDGRID_API_KEY": "@sendgrid-api-key",
-    "SENDGRID_FROM_EMAIL": "@sendgrid-from-email",
-    "SENDGRID_CONTACT_LIST_ID": "@sendgrid-contact-list-id"
-  }
+  "framework": "nextjs"
 }
