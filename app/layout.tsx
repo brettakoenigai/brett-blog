@@ -46,7 +46,7 @@ export default function RootLayout({
                 <h3 className="text-lg font-semibold mb-4">Connect</h3>
                 <div className="space-y-2">
                   <a
-                    href="https://linkedin.com/in/brettkoenig"
+                    href="https://www.linkedin.com/in/brett-koenig"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block text-gray-400 hover:text-white transition"
