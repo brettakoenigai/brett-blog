@@ -1,6 +1,12 @@
 export default function ProjectsPage() {
   const projects = [
     {
+      name: "For Emailer",
+      url: "https://foremailer.brettkoenig.com",
+      description: "Schedule recurring emails effortlessly. Set it once, and we'll handle the rest. Perfect for reminders, newsletters, check-ins, and habit tracking. Features flexible scheduling (daily, weekly, monthly, annual) and custom embeddable forms with automation.",
+      tags: ["Email", "Automation", "SaaS"]
+    },
+    {
       name: "LeadWell",
       url: "https://leadwell.brettkoenig.com",
       description: "A comprehensive leadership development platform helping managers grow their skills, track progress with direct reports, and build effective teams through structured conversations and goal setting.",
